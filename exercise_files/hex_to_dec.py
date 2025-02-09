@@ -19,4 +19,4 @@ def hexToDec(hexNum):
     print(decimal)
     return decimal
    
-hexToDec("34a")
+hexToDec("444")
